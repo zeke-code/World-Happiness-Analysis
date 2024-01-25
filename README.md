@@ -14,9 +14,15 @@ With the analysis of this data, we have a few objectives and matters that we'd l
 - ... (more objectives to define)
 
 ## Guide through the analysis
+It is recommended to use a virtual environment to install all needed dependencies.
 Clone the repository by using
 ```
 git clone https://github.com/zeke-code/World-Happiness-Analysis.git
+```
+
+Install requirements by using this command:
+```
+pip install -r requirements.txt
 ```
 and simply navigate the Jupyter Notebook cell by cell. Each passage is described accurately by the code comments and markdowns.
 
