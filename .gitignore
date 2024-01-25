@@ -1,0 +1,9 @@
+# Environments
+.env
+.venv
+env/
+venv/
+.vscode
+
+# System junk
+.DS_Store
