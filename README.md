@@ -1,5 +1,7 @@
 # World Happiness Analysis
 
+**Per la documentazione italiana, clonare il branch rinominato docs-italiani.**
+
 **The World Happiness Report** is a landmark survey of the state of global happiness. Published annually by the United Nations Sustainable Development Solutions Network, it ranks countries by how happy their citizens perceive themselves to be. This analysis explores the 2021 edition of the report, which provides happiness indexes for every country around the globe.
 
 [Data source can be found here.](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021)
